@@ -1,0 +1,20 @@
+#digits {
+  display: flex;
+  max-width: 250px;
+  justify-content: space-around;
+  margin-left: 10px;
+}
+
+.true {
+  color: white;
+  background-color: green;
+  font-size: 16px;
+  padding: 8px;
+}
+
+.false {
+  color: white;
+  background-color: red;
+  font-size: 16px;
+  padding: 8px;
+}
